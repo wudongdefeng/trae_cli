@@ -2,7 +2,7 @@
 
 给 [DASungta/trae-proxy](https://github.com/DASungta/trae-proxy) 补上 **Linux ARM64（aarch64）** 产物的 CI 配置。
 
-## 为什么需要它
+## 为什么需要它 
 
 上游仓库的 Release 只发布 4 个产物：
 
